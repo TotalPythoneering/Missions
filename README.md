@@ -1,12 +1,14 @@
 ## Welcome ...
-To the 'organization, friends.
+... to the `Total Pythoneering MISSIONS` friends! 🫡
 
-The game cards are with the [PyQuest locus](https://github.com/Python3-Training/TotalPythoneering).
+👉 A relatively advanced concept to enjoy is [Truthy or Falsy](https://github.com/TotalPythoneering/Missions/tree/main/2025_05_20_Truthly).
 
-The PyTrek game code [is here](https://github.com/Python3-Training/PyTrek).
+🎴 The game cards are with the [PyQuest locus](https://github.com/Python3-Training/TotalPythoneering).
 
-The 'Vids [are here](https://www.youtube.com/@TotalPythoneering)
+🛸 The PyTrek game code [is here](https://github.com/Python3-Training/PyTrek).
 
-That classic locus 'o education for 'pythoneers [is here](https://github.com/Python3-Training).
+🎥 The 'Vids [are here](https://www.youtube.com/@TotalPythoneering)
 
-Finally, even advanced 'pythoneers might find something new and / or in-spiring in the [Built-In Report](https://github.com/Python3-Training/The-Built-In-Report/blob/main/doc/ProPyQuest_2300_BLT.pdf)?
+🎓 That classic locus 'o education for 'pythoneers [is here](https://github.com/Python3-Training).
+
+📜 Finally, even advanced 'pythoneers might find something new and / or in-spiring in the [Built-In Report](https://github.com/Python3-Training/The-Built-In-Report/blob/main/doc/ProPyQuest_2300_BLT.pdf)?
