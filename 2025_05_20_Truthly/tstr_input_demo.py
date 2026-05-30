@@ -11,7 +11,7 @@ from tstr import BlankStr
 
 print("Press 'control + c' to stop...")
 while True:
-    if bool(BlankStr(input("Which: ")):
+    if bool(BlankStr(input("Which: "))):
         print("Truly")
     else:
         print("Flasy")
