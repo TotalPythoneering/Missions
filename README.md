@@ -1,7 +1,7 @@
 ## Welcome ...
 ... to the `Total Pythoneering MISSIONS` friends! 🫡
 
-👉 A relatively advanced concept to enjoy is [Truthy or Falsy](https://github.com/TotalPythoneering/Missions/tree/main/2026_05_30_TruthyVsFalsy).
+👉 A relatively advanced concept to enjoy is [Truthy or Falsy](https://github.com/TotalPythoneering/Missions/tree/main/2026_06_01_TruthyVsFalsy).
 
 🎴 The game cards are with the [PyQuest locus](https://github.com/Python3-Training/TotalPythoneering).
 
