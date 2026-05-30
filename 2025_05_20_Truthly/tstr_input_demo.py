@@ -7,7 +7,7 @@
 # FILE: tstr_input_demo.py
 # AUTHOR: Randall Nagy
 #
-from istr import BlankStr
+from tstr import BlankStr
 
 print("Press 'control + c' to stop...")
 while True:
