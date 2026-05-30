@@ -7,9 +7,9 @@ Welcome to integrating you own classes into Python's booleal evaluation nation!
 ✅ Pass all interview queries 'ore `truthy` and `falsy` evaluations!
 
 ## Deeper-Dives
-When collecting input it might be nice to `falsy` [detect blank strings](https://github.com/TotalPythoneering/Missions/blob/main/2025_05_20_Truthly/tstr.py)?
+When collecting input it might be nice to `falsy` [detect blank strings](https://github.com/TotalPythoneering/Missions/blob/main/2025_05_20_Truthly/blank_str.py)?
 
-For a tad more insight into how Python's boolean() framework works simply change the `__bool__` operation before running the [test cases](https://github.com/TotalPythoneering/Missions/blob/main/2025_05_20_Truthly/tc_tstr01.py) or the updated [input loop](https://github.com/TotalPythoneering/Missions/blob/main/2025_05_20_Truthly/tstr_input_demo.py)) example.  
+For a tad more insight into how Python's boolean() framework works simply change the `__bool__` operation before running the [test cases](https://github.com/TotalPythoneering/Missions/blob/main/2025_05_20_Truthly/tc01.py) or the updated [input loop](https://github.com/TotalPythoneering/Missions/blob/main/2025_05_20_Truthly/input_demo2.py)) example.  
 
 Happy ['Pythoneering](https://www.youtube.com/@TotalPythoneering)!
 
